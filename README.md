@@ -2,4 +2,4 @@
 자잘한 코드들...
 
 # code1 : voting.sol
-![homework_sol](https://github.com/cocorini/ETC/assets/108528528/34eb4ec4-d8ac-474b-ad79-e7f7a43361fc)
+![image](https://github.com/cocorini/ETC/assets/108528528/011cf3f2-7159-4b90-a7b5-d5bfa7eb4e7b)
